@@ -1,5 +1,6 @@
 # Teste técnico do Programa de Formação em Elixir da Stone
 
+Resposta enviada para o teste técnico da Stone. Foram além das classes criadas para solucionar o desafio (splitBill e itemDetails), também foi criada uma classe para gerar listas aleatórias que pudessem ser usadas nos testes (GenerateTestItems). As soluções podem ser testadas utilizando a classe Desafio.
 
 
 ## Informações Iniciais
