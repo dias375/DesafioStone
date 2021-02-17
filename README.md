@@ -1,6 +1,6 @@
 # Teste técnico do Programa de Formação em Elixir da Stone
 
-Resposta enviada para o teste técnico Programa de Formação em Elixir da Stone.
+
 
 ## Informações Iniciais
 
